@@ -4,7 +4,17 @@
 
 ### 1. **Problem Definition and Understanding**
 
-In this project, we defined a problem of predicting product sales based on a set of features collected from the data. The goal was to build a predictive model using machine learning algorithms to forecast future values based on input data.
+1. **Problem Statement**
+The Problem Being Addressed: The problem is to predict the number of visitors who will visit ski resorts based on weather conditions like temperature, wind speed, rainfall, and snow density. These predictions will help optimize resource allocation such as equipment, instructors, and ski path schedules, leading to an enhanced visitor experience.
+ 2. **Context and Significance**
+Practical Context: Ski resorts are highly seasonal and are directly affected by weather conditions to determine peak times and expected visitor numbers. Accurate weather-based predictions can help in improving resource planning (e.g., rental equipment, trainers), logistics (e.g., opening or closing ski paths), and marketing strategies.
+
+Significance of Predicting Demand:
+
+Optimizing resource allocation: It helps in determining the optimal number of instructors, ski equipment, and staff needed, which reduces resource waste and increases operational efficiency.
+Improving visitor experience: By accurately planning resource allocation, resorts can ensure that services are available during peak times, thus improving the overall visitor experience.
+Responding to market trends: Accurate demand predictions allow ski resorts to adjust their strategies in response to changing weather conditions, ensuring they meet customer needs effectively.
+
 
 ### 2. **Data Collection and Integration**
 
